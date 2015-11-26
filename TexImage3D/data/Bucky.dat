@@ -1,0 +1,9 @@
+ObjectFileName: Bucky.raw
+TaggedFileName: ---
+Resolution:     32 32 32
+SliceThickness: 1 1 1
+Format:         UCHAR
+NbrTags:        0
+ObjectType:     TEXTURE_VOLUME_OBJECT
+ObjectModel:    I
+GridType:       EQUIDISTANT

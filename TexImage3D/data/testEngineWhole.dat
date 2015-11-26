@@ -1,0 +1,11 @@
+ObjectFileName:	testEngineWhole.raw
+TaggedFileName:	---
+Resolution:	256 256 112
+SliceThickness:	1.000000 1.000000 1.000000
+Format:	UCHAR
+NbrTags:	0
+ObjectType:	TEXTURE_VOLUME_OBJECT
+ObjectModel:	I
+GridType:	EQUIDISTANT
+Modality:	unknown
+TimeStep:	0

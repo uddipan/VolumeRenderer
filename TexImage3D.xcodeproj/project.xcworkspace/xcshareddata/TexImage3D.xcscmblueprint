@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f4c1709a-2bd7-4f5a-a654-4b04d6b5cfee++4482" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f4c1709a-2bd7-4f5a-a654-4b04d6b5cfee++4482" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "843928AD-CAEA-4DAB-97F4-46F064090EF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f4c1709a-2bd7-4f5a-a654-4b04d6b5cfee++4482" : "..\/Uddipan\/code\/Frameworks\/TOT"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TexImage3D",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TexImage3D.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn+ssh:\/\/17.201.124.100\/prebuilt",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f4c1709a-2bd7-4f5a-a654-4b04d6b5cfee++4482"
+    }
+  ]
+}

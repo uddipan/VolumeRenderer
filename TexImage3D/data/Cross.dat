@@ -1,0 +1,9 @@
+ObjectFileName: Cross.raw
+TaggedFileName: ---
+Resolution:     64 64 64
+SliceThickness: 1 1 1
+Format:         UCHAR
+NbrTags:        0
+ObjectType:     TEXTURE_VOLUME_OBJECT
+ObjectModel:    I
+GridType:       EQUIDISTANT
